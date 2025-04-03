@@ -47,6 +47,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaupventur/jaupventur/output/snake.svg" alt="Snake animation" />
 
-###
+
