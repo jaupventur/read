@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaupventur/jaupventur/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/jaupventur/read/blob/main/snake.yml" alt="Snake animation" />
 
 ###
