@@ -18,9 +18,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282" height="30" alt="java logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="30" alt="java logo"  />
   <img width="12" />
-  <img src= "https://www.flaticon.com/free-icon/oracle_16183644?term=oracle&page=1&position=5&origin=search&related_id=16183644" height="30" alt="Oracle logo" />
+  <img src= "https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="30" alt="MySql logo" />
   <img width="12" />
 </div>
   
