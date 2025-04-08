@@ -14,8 +14,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo"  />
@@ -38,6 +36,22 @@
 ###
 
 <br clear="both">
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francine02&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francine02&theme=tokyonight" />
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 
