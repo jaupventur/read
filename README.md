@@ -4,12 +4,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaupventur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaupventur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaupventur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpwdHF1Y2g4NWI2MmhmdzBxejA3MGIwZGptM2YxbjI5NnI3djcydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AposSatwmTvUc/giphy.gif"  />
+<img align="right" height="150" src="https://tenor.com/view/solaire-gif-21465395"  />
 
 ###
 
@@ -41,9 +41,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaupventur/jaupventur/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaupventur/jaupventur/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaupventur/jaupventur/output/pacman-contribution-graph.svg">
 </picture>
 
 
